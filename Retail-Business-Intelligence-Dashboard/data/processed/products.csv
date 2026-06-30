@@ -1,0 +1,241 @@
+product_id,product_name,brand,category_id,purchase_price,selling_price,gst_percent,profit,profit_margin,gst_amount
+1,Aashirvaad Oil,Aashirvaad,1,77,125,0,48,38.4,0.0
+2,India Gate Salt,India Gate,1,357,447,5,90,20.13,22.35
+3,Tata Atta,Tata,1,334,374,5,40,10.7,18.7
+4,India Gate Salt,India Gate,1,246,262,18,16,6.11,47.16
+5,India Gate Rice,India Gate,1,132,221,12,89,40.27,26.52
+6,Fortune Rice,Fortune,1,187,330,18,143,43.33,59.4
+7,Fortune Atta,Fortune,1,21,63,18,42,66.67,11.34
+8,Tata Oil,Tata,1,288,305,12,17,5.57,36.6
+9,India Gate Sugar,India Gate,1,356,383,5,27,7.05,19.15
+10,Patanjali Sugar,Patanjali,1,242,369,12,127,34.42,44.28
+11,Fortune Atta,Fortune,1,283,294,12,11,3.74,35.28
+12,Tata Oil,Tata,1,323,453,12,130,28.7,54.36
+13,Tata Atta,Tata,1,191,275,0,84,30.55,0.0
+14,Fortune Rice,Fortune,1,189,326,12,137,42.02,39.12
+15,Patanjali Salt,Patanjali,1,296,372,12,76,20.43,44.64
+16,Fortune Oil,Fortune,1,307,410,12,103,25.12,49.2
+17,India Gate Sugar,India Gate,1,292,409,5,117,28.61,20.45
+18,Aashirvaad Atta,Aashirvaad,1,59,165,18,106,64.24,29.7
+19,India Gate Oil,India Gate,1,364,380,0,16,4.21,0.0
+20,India Gate Oil,India Gate,1,142,212,18,70,33.02,38.16
+21,Nandini Milk,Nandini,2,223,364,5,141,38.74,18.2
+22,Amul Butter,Amul,2,368,395,12,27,6.84,47.4
+23,Mother Dairy Curd,Mother Dairy,2,61,206,12,145,70.39,24.72
+24,Nandini Butter,Nandini,2,123,237,5,114,48.1,11.85
+25,Nandini Paneer,Nandini,2,181,222,5,41,18.47,11.1
+26,Nandini Curd,Nandini,2,392,445,0,53,11.91,0.0
+27,Nandini Milk,Nandini,2,124,216,5,92,42.59,10.8
+28,Mother Dairy Milk,Mother Dairy,2,58,105,12,47,44.76,12.6
+29,Amul Milk,Amul,2,43,81,12,38,46.91,9.72
+30,Amul Milk,Amul,2,275,359,18,84,23.4,64.62
+31,Amul Paneer,Amul,2,110,178,5,68,38.2,8.9
+32,Nandini Butter,Nandini,2,197,325,12,128,39.38,39.0
+33,Nandini Paneer,Nandini,2,322,395,0,73,18.48,0.0
+34,Nandini Curd,Nandini,2,300,311,12,11,3.54,37.32
+35,Amul Curd,Amul,2,90,158,18,68,43.04,28.44
+36,Mother Dairy Milk,Mother Dairy,2,173,318,0,145,45.6,0.0
+37,Amul Cheese,Amul,2,143,235,12,92,39.15,28.2
+38,Amul Cheese,Amul,2,376,479,5,103,21.5,23.95
+39,Mother Dairy Butter,Mother Dairy,2,339,349,5,10,2.87,17.45
+40,Mother Dairy Curd,Mother Dairy,2,152,212,18,60,28.3,38.16
+41,Haldiram Namkeen,Haldiram,3,323,391,5,68,17.39,19.55
+42,Nestlé Cookies,Nestlé,3,107,171,0,64,37.43,0.0
+43,Parle Biscuits,Parle,3,315,417,5,102,24.46,20.85
+44,Britannia Chips,Britannia,3,108,174,12,66,37.93,20.88
+45,Parle Chips,Parle,3,374,415,0,41,9.88,0.0
+46,Parle Chips,Parle,3,57,79,18,22,27.85,14.22
+47,Britannia Chips,Britannia,3,22,172,5,150,87.21,8.6
+48,Britannia Biscuits,Britannia,3,313,423,12,110,26.0,50.76
+49,Parle Namkeen,Parle,3,106,120,5,14,11.67,6.0
+50,Nestlé Biscuits,Nestlé,3,22,117,12,95,81.2,14.04
+51,Britannia Chips,Britannia,3,125,181,18,56,30.94,32.58
+52,Parle Cookies,Parle,3,62,76,5,14,18.42,3.8
+53,Parle Chips,Parle,3,399,499,5,100,20.04,24.95
+54,Nestlé Namkeen,Nestlé,3,86,218,12,132,60.55,26.16
+55,Parle Namkeen,Parle,3,119,228,5,109,47.81,11.4
+56,Parle Namkeen,Parle,3,233,382,5,149,39.01,19.1
+57,Haldiram Cookies,Haldiram,3,174,318,5,144,45.28,15.9
+58,Britannia Namkeen,Britannia,3,239,371,0,132,35.58,0.0
+59,Haldiram Namkeen,Haldiram,3,256,404,5,148,36.63,20.2
+60,Nestlé Chips,Nestlé,3,314,342,0,28,8.19,0.0
+61,Pepsi Soft Drink,Pepsi,4,341,384,12,43,11.2,46.08
+62,Coca-Cola Juice,Coca-Cola,4,280,322,18,42,13.04,57.96
+63,Bru Tea,Bru,4,305,321,18,16,4.98,57.78
+64,Pepsi Soft Drink,Pepsi,4,226,357,18,131,36.69,64.26
+65,Coca-Cola Soft Drink,Coca-Cola,4,25,124,12,99,79.84,14.88
+66,Coca-Cola Tea,Coca-Cola,4,103,161,18,58,36.02,28.98
+67,Bru Coffee,Bru,4,202,350,0,148,42.29,0.0
+68,Pepsi Juice,Pepsi,4,352,424,0,72,16.98,0.0
+69,Pepsi Soft Drink,Pepsi,4,223,277,5,54,19.49,13.85
+70,Bru Tea,Bru,4,330,420,0,90,21.43,0.0
+71,Coca-Cola Tea,Coca-Cola,4,297,404,0,107,26.49,0.0
+72,Tata Tea Coffee,Tata Tea,4,78,115,18,37,32.17,20.7
+73,Pepsi Soft Drink,Pepsi,4,86,142,5,56,39.44,7.1
+74,Coca-Cola Tea,Coca-Cola,4,345,483,5,138,28.57,24.15
+75,Bru Coffee,Bru,4,298,390,0,92,23.59,0.0
+76,Pepsi Soft Drink,Pepsi,4,29,178,18,149,83.71,32.04
+77,Coca-Cola Soft Drink,Coca-Cola,4,189,200,5,11,5.5,10.0
+78,Coca-Cola Soft Drink,Coca-Cola,4,335,452,12,117,25.88,54.24
+79,Pepsi Tea,Pepsi,4,272,344,18,72,20.93,61.92
+80,Tata Tea Soft Drink,Tata Tea,4,173,225,5,52,23.11,11.25
+81,Lux Soap,Lux,5,318,415,0,97,23.37,0.0
+82,Dove Toothpaste,Dove,5,166,188,0,22,11.7,0.0
+83,Clinic Plus Soap,Clinic Plus,5,393,459,18,66,14.38,82.62
+84,Dove Shampoo,Dove,5,233,365,12,132,36.16,43.8
+85,Lux Soap,Lux,5,161,174,18,13,7.47,31.32
+86,Lux Toothpaste,Lux,5,132,271,12,139,51.29,32.52
+87,Colgate Soap,Colgate,5,333,467,0,134,28.69,0.0
+88,Clinic Plus Soap,Clinic Plus,5,77,104,18,27,25.96,18.72
+89,Dove Face Wash,Dove,5,235,305,18,70,22.95,54.9
+90,Clinic Plus Soap,Clinic Plus,5,327,423,18,96,22.7,76.14
+91,Colgate Face Wash,Colgate,5,249,304,5,55,18.09,15.2
+92,Lux Face Wash,Lux,5,216,337,0,121,35.91,0.0
+93,Lux Face Wash,Lux,5,251,353,5,102,28.9,17.65
+94,Lux Soap,Lux,5,129,188,18,59,31.38,33.84
+95,Clinic Plus Toothpaste,Clinic Plus,5,174,272,5,98,36.03,13.6
+96,Colgate Soap,Colgate,5,20,95,0,75,78.95,0.0
+97,Dove Shampoo,Dove,5,399,473,18,74,15.64,85.14
+98,Colgate Soap,Colgate,5,353,413,5,60,14.53,20.65
+99,Lux Face Wash,Lux,5,33,111,5,78,70.27,5.55
+100,Lux Shampoo,Lux,5,238,345,0,107,31.01,0.0
+101,Ariel Floor Cleaner,Ariel,6,384,501,18,117,23.35,90.18
+102,Harpic Toilet Cleaner,Harpic,6,263,312,0,49,15.71,0.0
+103,Surf Excel Detergent,Surf Excel,6,328,378,5,50,13.23,18.9
+104,Ariel Toilet Cleaner,Ariel,6,358,409,12,51,12.47,49.08
+105,Surf Excel Toilet Cleaner,Surf Excel,6,353,420,18,67,15.95,75.6
+106,Harpic Toilet Cleaner,Harpic,6,269,336,18,67,19.94,60.48
+107,Harpic Floor Cleaner,Harpic,6,117,198,5,81,40.91,9.9
+108,Vim Floor Cleaner,Vim,6,277,423,5,146,34.52,21.15
+109,Harpic Toilet Cleaner,Harpic,6,239,379,18,140,36.94,68.22
+110,Harpic Toilet Cleaner,Harpic,6,32,161,5,129,80.12,8.05
+111,Ariel Detergent,Ariel,6,36,132,18,96,72.73,23.76
+112,Vim Toilet Cleaner,Vim,6,355,428,5,73,17.06,21.4
+113,Surf Excel Toilet Cleaner,Surf Excel,6,100,185,5,85,45.95,9.25
+114,Harpic Dishwash,Harpic,6,376,486,12,110,22.63,58.32
+115,Ariel Detergent,Ariel,6,234,246,5,12,4.88,12.3
+116,Surf Excel Toilet Cleaner,Surf Excel,6,97,225,12,128,56.89,27.0
+117,Ariel Toilet Cleaner,Ariel,6,42,179,5,137,76.54,8.95
+118,Harpic Dishwash,Harpic,6,368,405,0,37,9.14,0.0
+119,Vim Floor Cleaner,Vim,6,303,388,12,85,21.91,46.56
+120,Harpic Dishwash,Harpic,6,254,345,18,91,26.38,62.1
+121,Pampers Diapers,Pampers,7,29,170,5,141,82.94,8.5
+122,Pampers Baby Soap,Pampers,7,117,257,5,140,54.47,12.85
+123,Pampers Baby Powder,Pampers,7,198,220,0,22,10.0,0.0
+124,Johnson's Baby Soap,Johnson's,7,377,414,0,37,8.94,0.0
+125,Pampers Diapers,Pampers,7,356,448,12,92,20.54,53.76
+126,Johnson's Baby Powder,Johnson's,7,196,219,0,23,10.5,0.0
+127,Himalaya Baby Powder,Himalaya,7,278,403,5,125,31.02,20.15
+128,Pampers Baby Lotion,Pampers,7,261,347,18,86,24.78,62.46
+129,Pampers Baby Soap,Pampers,7,387,500,5,113,22.6,25.0
+130,Himalaya Baby Soap,Himalaya,7,105,158,0,53,33.54,0.0
+131,Johnson's Baby Powder,Johnson's,7,32,153,0,121,79.08,0.0
+132,Pampers Baby Soap,Pampers,7,208,296,5,88,29.73,14.8
+133,Pampers Baby Soap,Pampers,7,197,270,0,73,27.04,0.0
+134,Johnson's Baby Soap,Johnson's,7,136,242,12,106,43.8,29.04
+135,Johnson's Baby Powder,Johnson's,7,83,216,18,133,61.57,38.88
+136,Johnson's Diapers,Johnson's,7,51,64,5,13,20.31,3.2
+137,Himalaya Baby Soap,Himalaya,7,69,92,18,23,25.0,16.56
+138,Pampers Diapers,Pampers,7,382,451,5,69,15.3,22.55
+139,Himalaya Baby Lotion,Himalaya,7,201,311,5,110,35.37,15.55
+140,Johnson's Baby Soap,Johnson's,7,380,409,12,29,7.09,49.08
+141,Apsara Pen,Apsara,8,193,271,5,78,28.78,13.55
+142,Cello Marker,Cello,8,315,415,5,100,24.1,20.75
+143,Apsara Marker,Apsara,8,145,228,18,83,36.4,41.04
+144,Cello Notebook,Cello,8,182,278,0,96,34.53,0.0
+145,Classmate Marker,Classmate,8,373,477,5,104,21.8,23.85
+146,Apsara Pencil,Apsara,8,38,113,0,75,66.37,0.0
+147,Classmate Marker,Classmate,8,144,293,5,149,50.85,14.65
+148,Classmate Marker,Classmate,8,274,377,0,103,27.32,0.0
+149,Classmate Notebook,Classmate,8,245,383,0,138,36.03,0.0
+150,Cello Pencil,Cello,8,66,89,5,23,25.84,4.45
+151,Cello Pen,Cello,8,174,304,18,130,42.76,54.72
+152,Apsara Pen,Apsara,8,134,259,0,125,48.26,0.0
+153,Classmate Pencil,Classmate,8,259,315,12,56,17.78,37.8
+154,Classmate Marker,Classmate,8,229,366,5,137,37.43,18.3
+155,Classmate Notebook,Classmate,8,146,281,18,135,48.04,50.58
+156,Cello Marker,Cello,8,171,314,12,143,45.54,37.68
+157,Classmate Marker,Classmate,8,388,517,0,129,24.95,0.0
+158,Classmate Marker,Classmate,8,122,181,0,59,32.6,0.0
+159,Cello Marker,Cello,8,30,77,18,47,61.04,13.86
+160,Apsara Notebook,Apsara,8,257,283,18,26,9.19,50.94
+161,McCain Veg Nuggets,McCain,9,41,156,0,115,73.72,0.0
+162,McCain French Fries,McCain,9,299,335,18,36,10.75,60.3
+163,ITC Frozen Peas,ITC,9,246,394,0,148,37.56,0.0
+164,ITC Frozen Peas,ITC,9,100,144,5,44,30.56,7.2
+165,ITC Frozen Peas,ITC,9,203,244,5,41,16.8,12.2
+166,ITC Frozen Peas,ITC,9,388,408,0,20,4.9,0.0
+167,ITC Veg Nuggets,ITC,9,338,420,0,82,19.52,0.0
+168,ITC Veg Nuggets,ITC,9,164,255,18,91,35.69,45.9
+169,McCain Frozen Peas,McCain,9,179,254,0,75,29.53,0.0
+170,ITC Veg Nuggets,ITC,9,130,184,5,54,29.35,9.2
+171,ITC Frozen Peas,ITC,9,96,162,18,66,40.74,29.16
+172,McCain Veg Nuggets,McCain,9,134,238,5,104,43.7,11.9
+173,McCain Frozen Peas,McCain,9,66,167,18,101,60.48,30.06
+174,ITC Frozen Peas,ITC,9,364,383,18,19,4.96,68.94
+175,McCain Frozen Peas,McCain,9,317,466,0,149,31.97,0.0
+176,McCain Veg Nuggets,McCain,9,224,341,5,117,34.31,17.05
+177,ITC Veg Nuggets,ITC,9,305,410,0,105,25.61,0.0
+178,McCain Frozen Peas,McCain,9,70,179,18,109,60.89,32.22
+179,McCain French Fries,McCain,9,87,125,12,38,30.4,15.0
+180,McCain French Fries,McCain,9,52,189,0,137,72.49,0.0
+181,Patanjali Chyawanprash,Patanjali,10,125,232,12,107,46.12,27.84
+182,Dabur Chyawanprash,Dabur,10,128,138,5,10,7.25,6.9
+183,Himalaya Chyawanprash,Himalaya,10,395,513,12,118,23.0,61.56
+184,Himalaya Hand Sanitizer,Himalaya,10,249,332,5,83,25.0,16.6
+185,Patanjali Honey,Patanjali,10,325,436,0,111,25.46,0.0
+186,Dabur Chyawanprash,Dabur,10,355,433,0,78,18.01,0.0
+187,Himalaya Hand Sanitizer,Himalaya,10,171,188,18,17,9.04,33.84
+188,Himalaya Chyawanprash,Himalaya,10,348,477,18,129,27.04,85.86
+189,Patanjali Hand Sanitizer,Patanjali,10,144,211,18,67,31.75,37.98
+190,Himalaya Honey,Himalaya,10,37,71,5,34,47.89,3.55
+191,Himalaya Chyawanprash,Himalaya,10,214,358,0,144,40.22,0.0
+192,Patanjali Chyawanprash,Patanjali,10,364,475,0,111,23.37,0.0
+193,Dabur Chyawanprash,Dabur,10,385,526,18,141,26.81,94.68
+194,Dabur Hand Sanitizer,Dabur,10,363,476,0,113,23.74,0.0
+195,Dabur Hand Sanitizer,Dabur,10,196,337,0,141,41.84,0.0
+196,Patanjali Honey,Patanjali,10,324,470,12,146,31.06,56.4
+197,Dabur Chyawanprash,Dabur,10,288,410,12,122,29.76,49.2
+198,Dabur Chyawanprash,Dabur,10,235,333,18,98,29.43,59.94
+199,Dabur Chyawanprash,Dabur,10,372,460,18,88,19.13,82.8
+200,Himalaya Chyawanprash,Himalaya,10,77,116,18,39,33.62,20.88
+201,MDH Garam Masala,MDH,11,391,501,5,110,21.96,25.05
+202,Catch Garam Masala,Catch,11,98,202,18,104,51.49,36.36
+203,Catch Coriander Powder,Catch,11,315,453,18,138,30.46,81.54
+204,MDH Garam Masala,MDH,11,60,73,0,13,17.81,0.0
+205,Everest Red Chilli,Everest,11,54,126,5,72,57.14,6.3
+206,Catch Red Chilli,Catch,11,298,440,0,142,32.27,0.0
+207,Catch Coriander Powder,Catch,11,133,249,5,116,46.59,12.45
+208,Everest Garam Masala,Everest,11,57,124,12,67,54.03,14.88
+209,Everest Turmeric,Everest,11,306,442,18,136,30.77,79.56
+210,Everest Coriander Powder,Everest,11,269,319,18,50,15.67,57.42
+211,Catch Turmeric,Catch,11,71,208,12,137,65.87,24.96
+212,Catch Garam Masala,Catch,11,239,285,12,46,16.14,34.2
+213,Catch Turmeric,Catch,11,23,109,0,86,78.9,0.0
+214,Catch Garam Masala,Catch,11,384,506,18,122,24.11,91.08
+215,MDH Turmeric,MDH,11,298,406,18,108,26.6,73.08
+216,Everest Coriander Powder,Everest,11,222,340,12,118,34.71,40.8
+217,MDH Red Chilli,MDH,11,297,379,12,82,21.64,45.48
+218,MDH Garam Masala,MDH,11,273,400,18,127,31.75,72.0
+219,Everest Garam Masala,Everest,11,318,450,5,132,29.33,22.5
+220,Catch Red Chilli,Catch,11,128,164,5,36,21.95,8.2
+221,Lizol Disinfectant,Lizol,12,38,167,18,129,77.25,30.06
+222,Colin Disinfectant,Colin,12,283,428,5,145,33.88,21.4
+223,Lizol Bathroom Cleaner,Lizol,12,187,324,18,137,42.28,58.32
+224,Lizol Glass Cleaner,Lizol,12,154,248,12,94,37.9,29.76
+225,Domex Glass Cleaner,Domex,12,261,285,18,24,8.42,51.3
+226,Lizol Glass Cleaner,Lizol,12,258,361,5,103,28.53,18.05
+227,Colin Bathroom Cleaner,Colin,12,180,193,5,13,6.74,9.65
+228,Colin Disinfectant,Colin,12,134,229,18,95,41.48,41.22
+229,Lizol Bathroom Cleaner,Lizol,12,230,370,5,140,37.84,18.5
+230,Lizol Bathroom Cleaner,Lizol,12,276,333,18,57,17.12,59.94
+231,Colin Disinfectant,Colin,12,386,397,18,11,2.77,71.46
+232,Domex Disinfectant,Domex,12,27,148,0,121,81.76,0.0
+233,Colin Bathroom Cleaner,Colin,12,215,275,12,60,21.82,33.0
+234,Domex Glass Cleaner,Domex,12,137,245,5,108,44.08,12.25
+235,Colin Glass Cleaner,Colin,12,91,183,5,92,50.27,9.15
+236,Domex Disinfectant,Domex,12,136,253,18,117,46.25,45.54
+237,Lizol Bathroom Cleaner,Lizol,12,296,345,12,49,14.2,41.4
+238,Colin Glass Cleaner,Colin,12,185,283,12,98,34.63,33.96
+239,Lizol Disinfectant,Lizol,12,187,254,0,67,26.38,0.0
+240,Colin Glass Cleaner,Colin,12,105,127,18,22,17.32,22.86

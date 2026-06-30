@@ -1,0 +1,7 @@
+{
+    "host": "localhost",
+    "database": "ecommerce_dw",
+    "user": "postgres",
+    "password": "gitesh23",
+    "port": 5432
+}

@@ -1,0 +1,241 @@
+product_id,product_name,brand,category_id,purchase_price,selling_price,gst_percent
+1,Aashirvaad Oil,Aashirvaad,1,77,125,0
+2,India Gate Salt,India Gate,1,357,447,5
+3,Tata Atta,Tata,1,334,374,5
+4,India Gate Salt,India Gate,1,246,262,18
+5,India Gate Rice,India Gate,1,132,221,12
+6,Fortune Rice,Fortune,1,187,330,18
+7,Fortune Atta,Fortune,1,21,63,18
+8,Tata Oil,Tata,1,288,305,12
+9,India Gate Sugar,India Gate,1,356,383,5
+10,Patanjali Sugar,Patanjali,1,242,369,12
+11,Fortune Atta,Fortune,1,283,294,12
+12,Tata Oil,Tata,1,323,453,12
+13,Tata Atta,Tata,1,191,275,0
+14,Fortune Rice,Fortune,1,189,326,12
+15,Patanjali Salt,Patanjali,1,296,372,12
+16,Fortune Oil,Fortune,1,307,410,12
+17,India Gate Sugar,India Gate,1,292,409,5
+18,Aashirvaad Atta,Aashirvaad,1,59,165,18
+19,India Gate Oil,India Gate,1,364,380,0
+20,India Gate Oil,India Gate,1,142,212,18
+21,Nandini Milk,Nandini,2,223,364,5
+22,Amul Butter,Amul,2,368,395,12
+23,Mother Dairy Curd,Mother Dairy,2,61,206,12
+24,Nandini Butter,Nandini,2,123,237,5
+25,Nandini Paneer,Nandini,2,181,222,5
+26,Nandini Curd,Nandini,2,392,445,0
+27,Nandini Milk,Nandini,2,124,216,5
+28,Mother Dairy Milk,Mother Dairy,2,58,105,12
+29,Amul Milk,Amul,2,43,81,12
+30,Amul Milk,Amul,2,275,359,18
+31,Amul Paneer,Amul,2,110,178,5
+32,Nandini Butter,Nandini,2,197,325,12
+33,Nandini Paneer,Nandini,2,322,395,0
+34,Nandini Curd,Nandini,2,300,311,12
+35,Amul Curd,Amul,2,90,158,18
+36,Mother Dairy Milk,Mother Dairy,2,173,318,0
+37,Amul Cheese,Amul,2,143,235,12
+38,Amul Cheese,Amul,2,376,479,5
+39,Mother Dairy Butter,Mother Dairy,2,339,349,5
+40,Mother Dairy Curd,Mother Dairy,2,152,212,18
+41,Haldiram Namkeen,Haldiram,3,323,391,5
+42,Nestlé Cookies,Nestlé,3,107,171,0
+43,Parle Biscuits,Parle,3,315,417,5
+44,Britannia Chips,Britannia,3,108,174,12
+45,Parle Chips,Parle,3,374,415,0
+46,Parle Chips,Parle,3,57,79,18
+47,Britannia Chips,Britannia,3,22,172,5
+48,Britannia Biscuits,Britannia,3,313,423,12
+49,Parle Namkeen,Parle,3,106,120,5
+50,Nestlé Biscuits,Nestlé,3,22,117,12
+51,Britannia Chips,Britannia,3,125,181,18
+52,Parle Cookies,Parle,3,62,76,5
+53,Parle Chips,Parle,3,399,499,5
+54,Nestlé Namkeen,Nestlé,3,86,218,12
+55,Parle Namkeen,Parle,3,119,228,5
+56,Parle Namkeen,Parle,3,233,382,5
+57,Haldiram Cookies,Haldiram,3,174,318,5
+58,Britannia Namkeen,Britannia,3,239,371,0
+59,Haldiram Namkeen,Haldiram,3,256,404,5
+60,Nestlé Chips,Nestlé,3,314,342,0
+61,Pepsi Soft Drink,Pepsi,4,341,384,12
+62,Coca-Cola Juice,Coca-Cola,4,280,322,18
+63,Bru Tea,Bru,4,305,321,18
+64,Pepsi Soft Drink,Pepsi,4,226,357,18
+65,Coca-Cola Soft Drink,Coca-Cola,4,25,124,12
+66,Coca-Cola Tea,Coca-Cola,4,103,161,18
+67,Bru Coffee,Bru,4,202,350,0
+68,Pepsi Juice,Pepsi,4,352,424,0
+69,Pepsi Soft Drink,Pepsi,4,223,277,5
+70,Bru Tea,Bru,4,330,420,0
+71,Coca-Cola Tea,Coca-Cola,4,297,404,0
+72,Tata Tea Coffee,Tata Tea,4,78,115,18
+73,Pepsi Soft Drink,Pepsi,4,86,142,5
+74,Coca-Cola Tea,Coca-Cola,4,345,483,5
+75,Bru Coffee,Bru,4,298,390,0
+76,Pepsi Soft Drink,Pepsi,4,29,178,18
+77,Coca-Cola Soft Drink,Coca-Cola,4,189,200,5
+78,Coca-Cola Soft Drink,Coca-Cola,4,335,452,12
+79,Pepsi Tea,Pepsi,4,272,344,18
+80,Tata Tea Soft Drink,Tata Tea,4,173,225,5
+81,Lux Soap,Lux,5,318,415,0
+82,Dove Toothpaste,Dove,5,166,188,0
+83,Clinic Plus Soap,Clinic Plus,5,393,459,18
+84,Dove Shampoo,Dove,5,233,365,12
+85,Lux Soap,Lux,5,161,174,18
+86,Lux Toothpaste,Lux,5,132,271,12
+87,Colgate Soap,Colgate,5,333,467,0
+88,Clinic Plus Soap,Clinic Plus,5,77,104,18
+89,Dove Face Wash,Dove,5,235,305,18
+90,Clinic Plus Soap,Clinic Plus,5,327,423,18
+91,Colgate Face Wash,Colgate,5,249,304,5
+92,Lux Face Wash,Lux,5,216,337,0
+93,Lux Face Wash,Lux,5,251,353,5
+94,Lux Soap,Lux,5,129,188,18
+95,Clinic Plus Toothpaste,Clinic Plus,5,174,272,5
+96,Colgate Soap,Colgate,5,20,95,0
+97,Dove Shampoo,Dove,5,399,473,18
+98,Colgate Soap,Colgate,5,353,413,5
+99,Lux Face Wash,Lux,5,33,111,5
+100,Lux Shampoo,Lux,5,238,345,0
+101,Ariel Floor Cleaner,Ariel,6,384,501,18
+102,Harpic Toilet Cleaner,Harpic,6,263,312,0
+103,Surf Excel Detergent,Surf Excel,6,328,378,5
+104,Ariel Toilet Cleaner,Ariel,6,358,409,12
+105,Surf Excel Toilet Cleaner,Surf Excel,6,353,420,18
+106,Harpic Toilet Cleaner,Harpic,6,269,336,18
+107,Harpic Floor Cleaner,Harpic,6,117,198,5
+108,Vim Floor Cleaner,Vim,6,277,423,5
+109,Harpic Toilet Cleaner,Harpic,6,239,379,18
+110,Harpic Toilet Cleaner,Harpic,6,32,161,5
+111,Ariel Detergent,Ariel,6,36,132,18
+112,Vim Toilet Cleaner,Vim,6,355,428,5
+113,Surf Excel Toilet Cleaner,Surf Excel,6,100,185,5
+114,Harpic Dishwash,Harpic,6,376,486,12
+115,Ariel Detergent,Ariel,6,234,246,5
+116,Surf Excel Toilet Cleaner,Surf Excel,6,97,225,12
+117,Ariel Toilet Cleaner,Ariel,6,42,179,5
+118,Harpic Dishwash,Harpic,6,368,405,0
+119,Vim Floor Cleaner,Vim,6,303,388,12
+120,Harpic Dishwash,Harpic,6,254,345,18
+121,Pampers Diapers,Pampers,7,29,170,5
+122,Pampers Baby Soap,Pampers,7,117,257,5
+123,Pampers Baby Powder,Pampers,7,198,220,0
+124,Johnson's Baby Soap,Johnson's,7,377,414,0
+125,Pampers Diapers,Pampers,7,356,448,12
+126,Johnson's Baby Powder,Johnson's,7,196,219,0
+127,Himalaya Baby Powder,Himalaya,7,278,403,5
+128,Pampers Baby Lotion,Pampers,7,261,347,18
+129,Pampers Baby Soap,Pampers,7,387,500,5
+130,Himalaya Baby Soap,Himalaya,7,105,158,0
+131,Johnson's Baby Powder,Johnson's,7,32,153,0
+132,Pampers Baby Soap,Pampers,7,208,296,5
+133,Pampers Baby Soap,Pampers,7,197,270,0
+134,Johnson's Baby Soap,Johnson's,7,136,242,12
+135,Johnson's Baby Powder,Johnson's,7,83,216,18
+136,Johnson's Diapers,Johnson's,7,51,64,5
+137,Himalaya Baby Soap,Himalaya,7,69,92,18
+138,Pampers Diapers,Pampers,7,382,451,5
+139,Himalaya Baby Lotion,Himalaya,7,201,311,5
+140,Johnson's Baby Soap,Johnson's,7,380,409,12
+141,Apsara Pen,Apsara,8,193,271,5
+142,Cello Marker,Cello,8,315,415,5
+143,Apsara Marker,Apsara,8,145,228,18
+144,Cello Notebook,Cello,8,182,278,0
+145,Classmate Marker,Classmate,8,373,477,5
+146,Apsara Pencil,Apsara,8,38,113,0
+147,Classmate Marker,Classmate,8,144,293,5
+148,Classmate Marker,Classmate,8,274,377,0
+149,Classmate Notebook,Classmate,8,245,383,0
+150,Cello Pencil,Cello,8,66,89,5
+151,Cello Pen,Cello,8,174,304,18
+152,Apsara Pen,Apsara,8,134,259,0
+153,Classmate Pencil,Classmate,8,259,315,12
+154,Classmate Marker,Classmate,8,229,366,5
+155,Classmate Notebook,Classmate,8,146,281,18
+156,Cello Marker,Cello,8,171,314,12
+157,Classmate Marker,Classmate,8,388,517,0
+158,Classmate Marker,Classmate,8,122,181,0
+159,Cello Marker,Cello,8,30,77,18
+160,Apsara Notebook,Apsara,8,257,283,18
+161,McCain Veg Nuggets,McCain,9,41,156,0
+162,McCain French Fries,McCain,9,299,335,18
+163,ITC Frozen Peas,ITC,9,246,394,0
+164,ITC Frozen Peas,ITC,9,100,144,5
+165,ITC Frozen Peas,ITC,9,203,244,5
+166,ITC Frozen Peas,ITC,9,388,408,0
+167,ITC Veg Nuggets,ITC,9,338,420,0
+168,ITC Veg Nuggets,ITC,9,164,255,18
+169,McCain Frozen Peas,McCain,9,179,254,0
+170,ITC Veg Nuggets,ITC,9,130,184,5
+171,ITC Frozen Peas,ITC,9,96,162,18
+172,McCain Veg Nuggets,McCain,9,134,238,5
+173,McCain Frozen Peas,McCain,9,66,167,18
+174,ITC Frozen Peas,ITC,9,364,383,18
+175,McCain Frozen Peas,McCain,9,317,466,0
+176,McCain Veg Nuggets,McCain,9,224,341,5
+177,ITC Veg Nuggets,ITC,9,305,410,0
+178,McCain Frozen Peas,McCain,9,70,179,18
+179,McCain French Fries,McCain,9,87,125,12
+180,McCain French Fries,McCain,9,52,189,0
+181,Patanjali Chyawanprash,Patanjali,10,125,232,12
+182,Dabur Chyawanprash,Dabur,10,128,138,5
+183,Himalaya Chyawanprash,Himalaya,10,395,513,12
+184,Himalaya Hand Sanitizer,Himalaya,10,249,332,5
+185,Patanjali Honey,Patanjali,10,325,436,0
+186,Dabur Chyawanprash,Dabur,10,355,433,0
+187,Himalaya Hand Sanitizer,Himalaya,10,171,188,18
+188,Himalaya Chyawanprash,Himalaya,10,348,477,18
+189,Patanjali Hand Sanitizer,Patanjali,10,144,211,18
+190,Himalaya Honey,Himalaya,10,37,71,5
+191,Himalaya Chyawanprash,Himalaya,10,214,358,0
+192,Patanjali Chyawanprash,Patanjali,10,364,475,0
+193,Dabur Chyawanprash,Dabur,10,385,526,18
+194,Dabur Hand Sanitizer,Dabur,10,363,476,0
+195,Dabur Hand Sanitizer,Dabur,10,196,337,0
+196,Patanjali Honey,Patanjali,10,324,470,12
+197,Dabur Chyawanprash,Dabur,10,288,410,12
+198,Dabur Chyawanprash,Dabur,10,235,333,18
+199,Dabur Chyawanprash,Dabur,10,372,460,18
+200,Himalaya Chyawanprash,Himalaya,10,77,116,18
+201,MDH Garam Masala,MDH,11,391,501,5
+202,Catch Garam Masala,Catch,11,98,202,18
+203,Catch Coriander Powder,Catch,11,315,453,18
+204,MDH Garam Masala,MDH,11,60,73,0
+205,Everest Red Chilli,Everest,11,54,126,5
+206,Catch Red Chilli,Catch,11,298,440,0
+207,Catch Coriander Powder,Catch,11,133,249,5
+208,Everest Garam Masala,Everest,11,57,124,12
+209,Everest Turmeric,Everest,11,306,442,18
+210,Everest Coriander Powder,Everest,11,269,319,18
+211,Catch Turmeric,Catch,11,71,208,12
+212,Catch Garam Masala,Catch,11,239,285,12
+213,Catch Turmeric,Catch,11,23,109,0
+214,Catch Garam Masala,Catch,11,384,506,18
+215,MDH Turmeric,MDH,11,298,406,18
+216,Everest Coriander Powder,Everest,11,222,340,12
+217,MDH Red Chilli,MDH,11,297,379,12
+218,MDH Garam Masala,MDH,11,273,400,18
+219,Everest Garam Masala,Everest,11,318,450,5
+220,Catch Red Chilli,Catch,11,128,164,5
+221,Lizol Disinfectant,Lizol,12,38,167,18
+222,Colin Disinfectant,Colin,12,283,428,5
+223,Lizol Bathroom Cleaner,Lizol,12,187,324,18
+224,Lizol Glass Cleaner,Lizol,12,154,248,12
+225,Domex Glass Cleaner,Domex,12,261,285,18
+226,Lizol Glass Cleaner,Lizol,12,258,361,5
+227,Colin Bathroom Cleaner,Colin,12,180,193,5
+228,Colin Disinfectant,Colin,12,134,229,18
+229,Lizol Bathroom Cleaner,Lizol,12,230,370,5
+230,Lizol Bathroom Cleaner,Lizol,12,276,333,18
+231,Colin Disinfectant,Colin,12,386,397,18
+232,Domex Disinfectant,Domex,12,27,148,0
+233,Colin Bathroom Cleaner,Colin,12,215,275,12
+234,Domex Glass Cleaner,Domex,12,137,245,5
+235,Colin Glass Cleaner,Colin,12,91,183,5
+236,Domex Disinfectant,Domex,12,136,253,18
+237,Lizol Bathroom Cleaner,Lizol,12,296,345,12
+238,Colin Glass Cleaner,Colin,12,185,283,12
+239,Lizol Disinfectant,Lizol,12,187,254,0
+240,Colin Glass Cleaner,Colin,12,105,127,18
